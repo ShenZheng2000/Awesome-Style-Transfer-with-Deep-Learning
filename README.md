@@ -1,5 +1,5 @@
 # Awesome-Style-Transfer-with-Deep-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-This repository presents style transfer resources that involves deep learning methods. More emophasis is placed on state-of-the-art papers for recent 2 years.
+This repository presents style transfer resources that involves deep learning methods. T emophasis is placed on state-of-the-art papers for recent 2 years.
 
 # Papers
 
