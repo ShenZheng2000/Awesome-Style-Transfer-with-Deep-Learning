@@ -20,15 +20,26 @@ This repository presents style transfer resources that involves deep learning me
 
 ### CVPR 
 
-* Title [[Paper]()] [[Pytorch]()] 
+* In the Light of Feature Distributions: Moment Matching for Neural Style Transfer [[Paper]()] [[Pytorch]()] 
 
-* Title [[Paper]()] [[Pytorch]()] 
+* Style-Aware Normalized Loss for Improving Arbitrary Style Transfer [[Paper]()] [[Pytorch]()] 
 
-* Title [[Paper]()] [[Pytorch]()] 
+* Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes [[Paper]()] [[Pytorch]()] 
 
-* Title [[Paper]()] [[Pytorch]()] 
+* Adaptive Convolutions for Structure-Aware Style Transfer [[Paper]()] [[Pytorch]()] 
 
-* Title [[Paper]()] [[Pytorch]()] 
+* ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows [[Paper]()] [[Pytorch]()] 
+
+* Rethinking and Improving the Robustness of Image Style Transfer [[Paper]()] [[Pytorch]()] 
+
+* Learning To Warp for Style Transfer [[Paper]()] [[Pytorch]()] 
+
+* Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer [[Paper]()] [[Pytorch]()] 
+
+* DualAST: Dual Style-Learning Networks for Artistic Style Transfer [[Paper]()] [[Pytorch]()] 
+
+* What Can Style Transfer and Paintings Do for Model Robustness? [[Paper]()] [[Pytorch]()] 
+
 
 * Title [[Paper]()] [[Pytorch]()] 
 
