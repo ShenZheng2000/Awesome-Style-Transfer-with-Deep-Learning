@@ -4,7 +4,11 @@ This repository presents style transfer resources that involves deep learning me
 # Papers
 
 ## 2021
-* Diverse Image Style Transfer via Invertible Cross-Space Mapping, ICCV 2021 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Diverse_Image_Style_Transfer_via_Invertible_Cross-Space_Mapping_ICCV_2021_paper.pdf)] [[Pytorch]()]
+* Domain-Aware Universal Style Transfer [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Hong_Domain-Aware_Universal_Style_Transfer_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/Kibeom-Hong/Domain-Aware-Style-Transfer)]
+
+* AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_AdaAttN_Revisit_Attention_Mechanism_in_Arbitrary_Neural_Style_Transfer_ICCV_2021_paper.pdf)] [[Paddle](https://github.com/wzmsltw/AdaAttN)] [[Pytorch](https://github.com/Huage001/AdaAttN)]
+
+* Diverse Image Style Transfer via Invertible Cross-Space Mapping, ICCV 2021 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Diverse_Image_Style_Transfer_via_Invertible_Cross-Space_Mapping_ICCV_2021_paper.pdf)]
 
 * DRB-GAN: A Dynamic ResBlock Generative Adversarial Network for Artistic Style Transfer, ICCV 2021 [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_DRB-GAN_A_Dynamic_ResBlock_Generative_Adversarial_Network_for_Artistic_Style_ICCV_2021_paper.pdf)]
 
