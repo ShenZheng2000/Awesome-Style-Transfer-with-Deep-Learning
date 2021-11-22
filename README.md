@@ -20,30 +20,30 @@ This repository presents style transfer resources that involves deep learning me
 
 ### CVPR 
 
-* In the Light of Feature Distributions: Moment Matching for Neural Style Transfer [[Paper]()] [[Pytorch]()] 
+* In the Light of Feature Distributions: Moment Matching for Neural Style Transfer [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kalischek_In_the_Light_of_Feature_Distributions_Moment_Matching_for_Neural_CVPR_2021_paper.pdf)] [[Pytorch](https://github.com/D1noFuzi/cmd_styletransfer)] 
 
-* Style-Aware Normalized Loss for Improving Arbitrary Style Transfer [[Paper]()] [[Pytorch]()] 
+* Style-Aware Normalized Loss for Improving Arbitrary Style Transfer [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_Style-Aware_Normalized_Loss_for_Improving_Arbitrary_Style_Transfer_CVPR_2021_paper.pdf)] [[Pytorch]()] 
 
-* Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes [[Paper]()] [[Pytorch]()] 
+* Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kotovenko_Rethinking_Style_Transfer_From_Pixels_to_Parameterized_Brushstrokes_CVPR_2021_paper.pdf)] [[Pytorch]()] 
 
-* Adaptive Convolutions for Structure-Aware Style Transfer [[Paper]()] [[Pytorch]()] 
+* Adaptive Convolutions for Structure-Aware Style Transfer [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chandran_Adaptive_Convolutions_for_Structure-Aware_Style_Transfer_CVPR_2021_paper.pdf)] [[Pytorch]()] 
 
-* ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows [[Paper]()] [[Pytorch]()] 
+* ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/An_ArtFlow_Unbiased_Image_Style_Transfer_via_Reversible_Neural_Flows_CVPR_2021_paper.pdf)] [[Pytorch]()] 
 
-* Rethinking and Improving the Robustness of Image Style Transfer [[Paper]()] [[Pytorch]()] 
+* Rethinking and Improving the Robustness of Image Style Transfer [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Rethinking_and_Improving_the_Robustness_of_Image_Style_Transfer_CVPR_2021_paper.pdf)] [[Pytorch]()] 
 
-* Learning To Warp for Style Transfer [[Paper]()] [[Pytorch]()] 
+* Learning To Warp for Style Transfer [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Learning_To_Warp_for_Style_Transfer_CVPR_2021_paper.pdf)] [[Pytorch]()] 
 
-* Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer [[Paper]()] [[Pytorch]()] 
+* Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_Drafting_and_Revision_Laplacian_Pyramid_Network_for_Fast_High-Quality_Artistic_CVPR_2021_paper.pdf)] [[Pytorch]()] 
 
-* DualAST: Dual Style-Learning Networks for Artistic Style Transfer [[Paper]()] [[Pytorch]()] 
+* DualAST: Dual Style-Learning Networks for Artistic Style Transfer [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_DualAST_Dual_Style-Learning_Networks_for_Artistic_Style_Transfer_CVPR_2021_paper.pdf)] [[Pytorch]()] 
 
-* What Can Style Transfer and Paintings Do for Model Robustness? [[Paper]()] [[Pytorch]()] 
+* What Can Style Transfer and Paintings Do for Model Robustness? [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_What_Can_Style_Transfer_and_Paintings_Do_for_Model_Robustness_CVPR_2021_paper.pdf)] [[Pytorch]()] 
 
 
-* Title [[Paper]()] [[Pytorch]()] 
+<!-- * Title [[Paper]()] [[Pytorch]()]  -->
 
-* Title [[Paper]()] [[Pytorch]()] 
+<!-- * Title [[Paper]()] [[Pytorch]()]  -->
 
 
 ## 2020
