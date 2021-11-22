@@ -3,7 +3,7 @@ This repository presents style transfer resources that involves deep learning me
 
 # Papers 
 
-Note: Recommended Paper is in **Bold**，Temp-Skip Paper is in *Italic*
+* Recommended Paper is in **Bold**
 
 ## 2021
 
