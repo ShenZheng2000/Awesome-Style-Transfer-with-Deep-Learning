@@ -56,19 +56,19 @@ This repository presents style transfer resources that involves deep learning me
 
 
 # Baseline Methods (Commonly Used)
-Gatys (CVPR, 2016)
+Gatys (CVPR, 2016) A neural algorithm of artistic style
 
-AdaIN (ICCV, 2017)
+AdaIN (ICCV, 2017) Arbitrary style transfer in real-time with adaptive instance normalization
 
-WCT (NIPS, 2017)
+WCT (NIPS, 2017) Universal Style Transfer via Feature Transforms
 
-LST (CVPR, 2019)
+LST (CVPR, 2019) Learning linear transformations for fast image and video style transfer
 
-Avatar-Net (CVPR, 2018)
+Avatar-Net (CVPR, 2018) Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration
 
-SANet (CVPR, 2019)
+SANet (CVPR, 2019) Arbitrary Style Transfer with Style-Attentional Networks
 
-STROTSS (CVPR, 2019)
+STROTSS (CVPR, 2019) Style Transfer by Relaxed Optimal Transport and Self-Similarity
 
 # Surveys
 
