@@ -35,12 +35,10 @@ This repository presents style transfer resources that involves deep learning me
 * Title [[Paper]()] [[Pytorch]()] 
 
 
-
 ## 2020
 
-## 2019
 
-## Earlier 
+## <2019
 
 # Surveys
 
