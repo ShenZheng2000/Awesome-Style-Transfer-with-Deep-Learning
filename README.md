@@ -77,6 +77,6 @@ STROTSS (CVPR, 2019) Style Transfer by Relaxed Optimal Transport and Self-Simila
 # Metrics
 
 # Resources
-* [Awesome Style Transfer](https://github.com/neuralchen/awesome_style_transferb)
+* [Awesome Style Transfer](https://github.com/neuralchen/awesome_style_transfer)
 
 # Contact
