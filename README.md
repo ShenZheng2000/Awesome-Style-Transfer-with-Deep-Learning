@@ -12,9 +12,9 @@ This repository presents style transfer resources that involves deep learning me
 
 * **AdaAttN: Revisit Attention Mechanism in Arbitrary Neural Style Transfer** [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_AdaAttN_Revisit_Attention_Mechanism_in_Arbitrary_Neural_Style_Transfer_ICCV_2021_paper.pdf)] [[Paddle](https://github.com/wzmsltw/AdaAttN)] [[Pytorch](https://github.com/Huage001/AdaAttN)]
 
-* StyleFormer: Real-time Arbitrary Style Transfer via Parametric Style Composition [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_StyleFormer_Real-Time_Arbitrary_Style_Transfer_via_Parametric_Style_Composition_ICCV_2021_paper.pdf)]
+* **Manifold Alignment for Semantically Aligned Style Transfer** [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huo_Manifold_Alignment_for_Semantically_Aligned_Style_Transfer_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/NJUHuoJing/MAST)] 
 
-* Manifold Alignment for Semantically Aligned Style Transfer [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huo_Manifold_Alignment_for_Semantically_Aligned_Style_Transfer_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/NJUHuoJing/MAST)] 
+* StyleFormer: Real-time Arbitrary Style Transfer via Parametric Style Composition [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_StyleFormer_Real-Time_Arbitrary_Style_Transfer_via_Parametric_Style_Composition_ICCV_2021_paper.pdf)]
 
 --------------------------------------------------------------------------------------
 * <u>Diverse Image Style Transfer via Invertible Cross-Space Mapping</u> [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Diverse_Image_Style_Transfer_via_Invertible_Cross-Space_Mapping_ICCV_2021_paper.pdf)]
